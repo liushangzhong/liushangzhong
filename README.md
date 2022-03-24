@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**liushangzhong/liushangzhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭我现在正在寻找计算机编程方面的学习资源。
+- 🌱 现在正在学习Java编程语言。
+- 👯 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
